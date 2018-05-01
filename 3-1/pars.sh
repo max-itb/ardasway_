@@ -1,0 +1,1 @@
+grep -oE '"[0-9]{2}"' data.txt 
